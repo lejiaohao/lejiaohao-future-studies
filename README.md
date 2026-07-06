@@ -1,6 +1,6 @@
 # Lejiaohao Future Studies
 
-Lejiaohao Future Studies (乐郊号未来学调研).
+Lejiaohao Future Studies (乐郊号未来学研究).
 
 Essays and surveys on long-term futures under known physical constraints.
 

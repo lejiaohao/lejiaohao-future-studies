@@ -15,4 +15,3 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 Commercial use, adaptations beyond the stated public license, and other permission requests may be available by separate written agreement. Contact: [algebraanalysistopology@outlook.com].
 
 Third-party materials remain under their original rights and licenses.
-
